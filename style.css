@@ -1,0 +1,70 @@
+body{
+    background-color: #141414;
+}
+.car{
+  background-color: #1F1F1F;
+  height: 620px;
+  width: 386px;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 9px;
+}
+img{
+    border-radius: 50%;
+    height: 95px;
+    padding: 25px;
+    padding-top: 32px;
+    position: absolute;
+    left: 30%;
+}
+h1{
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  top: 22%;
+  font-size: 25px;
+}
+p{
+  color: #CAEB5A;
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  top: 22%;
+}
+.a{
+  color: white;
+  position: relative;
+  top: 25%;
+}
+.b,.c,.d,.e,.f{
+  color: white;
+  position: relative;
+  top: 25%;
+  background-color: #333333;
+  width: 296px;
+  margin-left: 10%;
+  padding: 10px;
+  padding-top: 16px;
+  padding-bottom: 14px;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: 0.4s;
+  cursor: pointer ;
+}
+.b:hover{
+  background-color: #cbf347;
+}
+.c:hover{
+  background-color: #aed431;
+}
+.d:hover{
+  background-color: #aed431;
+}
+.e:hover{
+  background-color: #aed431;
+}
+.f:hover{
+  background-color: #aed431;
+}
